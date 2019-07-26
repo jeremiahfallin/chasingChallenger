@@ -1,0 +1,9695 @@
+{
+  "Santorin": {
+    "Rank": 1,
+    "SummonerName": "Santorin",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Karthus",
+        "GamesPlayed": 62
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 57
+      },
+      "2": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 44
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karthus",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Olaf",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1564113600000
+  },
+  "TotalThisSeason": {
+    "Karthus": 62,
+    "Olaf": 16,
+    "Rek'Sai": 44,
+    "Sejuani": 30,
+    "Sylas": 16,
+    "Lee Sin": 57,
+    "Elise": 27,
+    "Xin Zhao": 7,
+    "Kayn": 19,
+    "Karma": 4,
+    "Vi": 2,
+    "Xerath": 17,
+    "Lucian": 14,
+    "Kindred": 36,
+    "Teemo": 1,
+    "Aatrox": 43,
+    "Hecarim": 25,
+    "Darius": 2,
+    "Kai'Sa": 2,
+    "Lux": 1,
+    "Kha'Zix": 5,
+    "Evelynn": 11,
+    "Sona": 1,
+    "Pantheon": 1,
+    "Jarvan IV": 18,
+    "Gragas": 14,
+    "Lissandra": 1,
+    "Urgot": 8,
+    "Taliyah": 3,
+    "Riven": 37,
+    "Trundle": 1,
+    "Braum": 2,
+    "Skarner": 4,
+    "Nocturne": 8,
+    "Neeko": 1,
+    "Zac": 2,
+    "Nidalee": 1,
+    "Ivern": 14,
+    "Camille": 10,
+    "Ezreal": 1,
+    "Leona": 1,
+    "Jax": 1
+  },
+  "TotalThisWeek": {
+    "Karthus": 5,
+    "Olaf": 1
+  },
+  "ADCADC123": {
+    "Rank": 2,
+    "SummonerName": "ADCADC123",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 92
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 74
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 7
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "iKingVex": {
+    "Rank": 3,
+    "SummonerName": "iKingVex",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 213
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 163
+      },
+      "2": {
+        "champion": "Tristana",
+        "GamesPlayed": 102
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "EricZYang": {
+    "Rank": 4,
+    "SummonerName": "EricZYang",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kayn",
+        "GamesPlayed": 368
+      },
+      "1": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 180
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 163
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kayn",
+        "GamesPlayed": 13
+      },
+      "1": {
+        "champion": "Graves",
+        "GamesPlayed": 11
+      },
+      "2": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 11
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Smoothie": {
+    "Rank": 5,
+    "SummonerName": "TSM Smoothie",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 64
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 62
+      },
+      "2": {
+        "champion": "Galio",
+        "GamesPlayed": 45
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Nautilus",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Zven": {
+    "Rank": 6,
+    "SummonerName": "TSM Zven",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 181
+      },
+      "1": {
+        "champion": "Draven",
+        "GamesPlayed": 161
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 105
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Swain",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Xayah",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 6
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "unrequ1ted": {
+    "Rank": 7,
+    "SummonerName": "unrequ1ted",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 186
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 140
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 76
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Olaf",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "1 Shady": {
+    "Rank": 8,
+    "SummonerName": "1 Shady",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Fiddlesticks",
+        "GamesPlayed": 226
+      },
+      "1": {
+        "champion": "Zilean",
+        "GamesPlayed": 203
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 203
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Fiddlesticks",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Zilean",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Fanatiik": {
+    "Rank": 9,
+    "SummonerName": "Fanatiik",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 64
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 54
+      },
+      "2": {
+        "champion": "Sejuani",
+        "GamesPlayed": 36
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Olaf",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Elise",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "From Iron": {
+    "Rank": 10,
+    "SummonerName": "From Iron",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 92
+      },
+      "1": {
+        "champion": "Galio",
+        "GamesPlayed": 65
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 57
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Pyke",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Pants are Dragon": {
+    "Rank": 11,
+    "SummonerName": "Pants are Dragon",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nunu & Willump",
+        "GamesPlayed": 96
+      },
+      "1": {
+        "champion": "Amumu",
+        "GamesPlayed": 72
+      },
+      "2": {
+        "champion": "Hecarim",
+        "GamesPlayed": 67
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yuumi",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Nami",
+        "GamesPlayed": 2
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "deftIy": {
+    "Rank": 12,
+    "SummonerName": "deftIy",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 109
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 88
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 65
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Xayah",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TàIon": {
+    "Rank": 13,
+    "SummonerName": "TàIon",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Talon",
+        "GamesPlayed": 147
+      },
+      "1": {
+        "champion": "Qiyana",
+        "GamesPlayed": 42
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 6
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Talon",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Ashe",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "æææøøøååå": {
+    "Rank": 14,
+    "SummonerName": "æææøøøååå",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 75
+      },
+      "1": {
+        "champion": "Kindred",
+        "GamesPlayed": 45
+      },
+      "2": {
+        "champion": "Hecarim",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Zac",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM BB": {
+    "Rank": 15,
+    "SummonerName": "TSM BB",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 81
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 43
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 41
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Camille",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Azir",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Tactical": {
+    "Rank": 16,
+    "SummonerName": "TSM Tactical",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 69
+      },
+      "1": {
+        "champion": "Vayne",
+        "GamesPlayed": 46
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 35
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "HunniBee ": {
+    "Rank": 17,
+    "SummonerName": "HunniBee ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Aatrox",
+        "GamesPlayed": 93
+      },
+      "1": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 66
+      },
+      "2": {
+        "champion": "Yasuo",
+        "GamesPlayed": 61
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "LeBlanc",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Malzahar",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Adrian Seira": {
+    "Rank": 18,
+    "SummonerName": "Adrian Seira",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 432
+      },
+      "1": {
+        "champion": "Camille",
+        "GamesPlayed": 90
+      },
+      "2": {
+        "champion": "Fiora",
+        "GamesPlayed": 72
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 25
+      },
+      "1": {
+        "champion": "Fiora",
+        "GamesPlayed": 11
+      },
+      "2": {
+        "champion": "Olaf",
+        "GamesPlayed": 7
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "JuIius": {
+    "Rank": 19,
+    "SummonerName": "JuIius",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Hecarim",
+        "GamesPlayed": 285
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 201
+      },
+      "2": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 127
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sejuani",
+        "GamesPlayed": 19
+      },
+      "1": {
+        "champion": "Olaf",
+        "GamesPlayed": 10
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 6
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "The Tank Man": {
+    "Rank": 20,
+    "SummonerName": "The Tank Man",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sona",
+        "GamesPlayed": 743
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 175
+      },
+      "2": {
+        "champion": "Janna",
+        "GamesPlayed": 141
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sona",
+        "GamesPlayed": 32
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 18
+      },
+      "2": {
+        "champion": "Lulu",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Gorica": {
+    "Rank": 21,
+    "SummonerName": "Gorica",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 82
+      },
+      "1": {
+        "champion": "Neeko",
+        "GamesPlayed": 82
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 37
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Neeko",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "KatEvolved": {
+    "Rank": 22,
+    "SummonerName": "KatEvolved",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Katarina",
+        "GamesPlayed": 351
+      },
+      "1": {
+        "champion": "Zoe",
+        "GamesPlayed": 67
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 62
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Katarina",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Swain",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "blaberfish2": {
+    "Rank": 23,
+    "SummonerName": "blaberfish2",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 30
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 25
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 21
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 13
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "WayOfTheTempesst": {
+    "Rank": 24,
+    "SummonerName": "WayOfTheTempesst",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 176
+      },
+      "1": {
+        "champion": "Xin Zhao",
+        "GamesPlayed": 27
+      },
+      "2": {
+        "champion": "Zed",
+        "GamesPlayed": 24
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 11
+      },
+      "1": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "WildTurtle": {
+    "Rank": 25,
+    "SummonerName": "WildTurtle",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 73
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 46
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 43
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Sword": {
+    "Rank": 26,
+    "SummonerName": "TSM Sword",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Zoe",
+        "GamesPlayed": 72
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 60
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 54
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Corki",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "SiddyWiddy": {
+    "Rank": 27,
+    "SummonerName": "SiddyWiddy",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kindred",
+        "GamesPlayed": 119
+      },
+      "1": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 116
+      },
+      "2": {
+        "champion": "Rengar",
+        "GamesPlayed": 84
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 24
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 11
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 7
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ItsYourChoice": {
+    "Rank": 28,
+    "SummonerName": "ItsYourChoice",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nidalee",
+        "GamesPlayed": 369
+      },
+      "1": {
+        "champion": "Elise",
+        "GamesPlayed": 55
+      },
+      "2": {
+        "champion": "Kindred",
+        "GamesPlayed": 44
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nidalee",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Ashe",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Ablazeolive": {
+    "Rank": 29,
+    "SummonerName": "TSM Ablazeolive",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 83
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 80
+      },
+      "2": {
+        "champion": "Ryze",
+        "GamesPlayed": 62
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Azir",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Yasuo",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "fox solo": {
+    "Rank": 30,
+    "SummonerName": "fox solo",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 100
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 75
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 66
+      }
+    },
+    "TopThreeWeek": {
+      "0": {},
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "FLY V1per": {
+    "Rank": 31,
+    "SummonerName": "FLY V1per",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 166
+      },
+      "1": {
+        "champion": "Riven",
+        "GamesPlayed": 145
+      },
+      "2": {
+        "champion": "Jayce",
+        "GamesPlayed": 84
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Johnsun": {
+    "Rank": 32,
+    "SummonerName": "TSM Johnsun",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 62
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 62
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 60
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Tristana",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Yasuo",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Best Riven NA": {
+    "Rank": 33,
+    "SummonerName": "Best Riven NA",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 368
+      },
+      "1": {
+        "champion": "Riven",
+        "GamesPlayed": 59
+      },
+      "2": {
+        "champion": "Maokai",
+        "GamesPlayed": 46
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 20
+      },
+      "1": {
+        "champion": "Riven",
+        "GamesPlayed": 2
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Copý": {
+    "Rank": 34,
+    "SummonerName": "Copý",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 34
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 33
+      },
+      "2": {
+        "champion": "Zoe",
+        "GamesPlayed": 30
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Syndra",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Lizardsking": {
+    "Rank": 35,
+    "SummonerName": "Lizardsking",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kindred",
+        "GamesPlayed": 24
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 22
+      },
+      "2": {
+        "champion": "Taliyah",
+        "GamesPlayed": 21
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kindred",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Qiyana",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Poppy",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Licorice": {
+    "Rank": 36,
+    "SummonerName": "Licorice",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 37
+      },
+      "1": {
+        "champion": "Ryze",
+        "GamesPlayed": 32
+      },
+      "2": {
+        "champion": "Kennen",
+        "GamesPlayed": 24
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Camille",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "gonextfast": {
+    "Rank": 37,
+    "SummonerName": "gonextfast",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 130
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 87
+      },
+      "2": {
+        "champion": "Vayne",
+        "GamesPlayed": 57
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 10
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Cônsistency": {
+    "Rank": 38,
+    "SummonerName": "Cônsistency",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Aatrox",
+        "GamesPlayed": 73
+      },
+      "1": {
+        "champion": "Renekton",
+        "GamesPlayed": 73
+      },
+      "2": {
+        "champion": "Camille",
+        "GamesPlayed": 61
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Camille",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Jøzy": {
+    "Rank": 39,
+    "SummonerName": "Jøzy",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sejuani",
+        "GamesPlayed": 91
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 85
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 84
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 20
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 17
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 10
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Breezyyy": {
+    "Rank": 40,
+    "SummonerName": "Breezyyy",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Alistar",
+        "GamesPlayed": 137
+      },
+      "1": {
+        "champion": "Braum",
+        "GamesPlayed": 103
+      },
+      "2": {
+        "champion": "Rakan",
+        "GamesPlayed": 57
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Leona",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Braum",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "5fire": {
+    "Rank": 41,
+    "SummonerName": "5fire",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ryze",
+        "GamesPlayed": 30
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 25
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 25
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Neeko",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "EcIıpse": {
+    "Rank": 42,
+    "SummonerName": "EcIıpse",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 39
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 35
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 33
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Vladimir",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Spica": {
+    "Rank": 43,
+    "SummonerName": "TSM Spica",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nidalee",
+        "GamesPlayed": 73
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 58
+      },
+      "2": {
+        "champion": "Kindred",
+        "GamesPlayed": 40
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rengar",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Nidalee",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Frostynomad": {
+    "Rank": 44,
+    "SummonerName": "Frostynomad",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Karthus",
+        "GamesPlayed": 149
+      },
+      "1": {
+        "champion": "Nunu & Willump",
+        "GamesPlayed": 123
+      },
+      "2": {
+        "champion": "Sejuani",
+        "GamesPlayed": 109
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karthus",
+        "GamesPlayed": 11
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 7
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 7
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Akaadian": {
+    "Rank": 45,
+    "SummonerName": "TSM Akaadian",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 73
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 44
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Gragas",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Vulcan 01": {
+    "Rank": 46,
+    "SummonerName": "Vulcan 01",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 131
+      },
+      "1": {
+        "champion": "Rakan",
+        "GamesPlayed": 97
+      },
+      "2": {
+        "champion": "Alistar",
+        "GamesPlayed": 86
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 16
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Nautilus",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "insanity": {
+    "Rank": 47,
+    "SummonerName": "insanity",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 94
+      },
+      "1": {
+        "champion": "Ryze",
+        "GamesPlayed": 52
+      },
+      "2": {
+        "champion": "Gangplank",
+        "GamesPlayed": 51
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Pantheon",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Qiyana",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Apollo Price": {
+    "Rank": 48,
+    "SummonerName": "Apollo Price",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 142
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 121
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 118
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "haru dad": {
+    "Rank": 49,
+    "SummonerName": "haru dad",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 32
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 29
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 28
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Alistar",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Asyc": {
+    "Rank": 50,
+    "SummonerName": "Asyc",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 320
+      },
+      "1": {
+        "champion": "Vayne",
+        "GamesPlayed": 165
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 133
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Lutano": {
+    "Rank": 51,
+    "SummonerName": "Lutano",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 255
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 203
+      },
+      "2": {
+        "champion": "Draven",
+        "GamesPlayed": 95
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 27
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 25
+      },
+      "2": {
+        "champion": "Nautilus",
+        "GamesPlayed": 24
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "bombado bro": {
+    "Rank": 52,
+    "SummonerName": "bombado bro",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 49
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 46
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 45
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Syndra",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Yasuo",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Zeyzal2": {
+    "Rank": 53,
+    "SummonerName": "Zeyzal2",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 29
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 24
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 22
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Nautilus",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "EvanRL": {
+    "Rank": 54,
+    "SummonerName": "EvanRL",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 51
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 31
+      },
+      "2": {
+        "champion": "Neeko",
+        "GamesPlayed": 28
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Swain",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "DiamondsAreBad": {
+    "Rank": 55,
+    "SummonerName": "DiamondsAreBad",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 77
+      },
+      "1": {
+        "champion": "Olaf",
+        "GamesPlayed": 65
+      },
+      "2": {
+        "champion": "Xin Zhao",
+        "GamesPlayed": 53
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Gragas",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Vi",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Olaf",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "CLG Min1": {
+    "Rank": 56,
+    "SummonerName": "CLG Min1",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Camille",
+        "GamesPlayed": 43
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 38
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 32
+      }
+    },
+    "TopThreeWeek": {
+      "0": {},
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Chimpion": {
+    "Rank": 57,
+    "SummonerName": "Chimpion",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Camille",
+        "GamesPlayed": 146
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 96
+      },
+      "2": {
+        "champion": "Karthus",
+        "GamesPlayed": 83
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Kindred",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Scoooped": {
+    "Rank": 58,
+    "SummonerName": "Scoooped",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 173
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 163
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 132
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Xayah",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Vayne",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Winter": {
+    "Rank": 59,
+    "SummonerName": "Winter",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 69
+      },
+      "1": {
+        "champion": "Nautilus",
+        "GamesPlayed": 42
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 40
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nami",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Humble Diligent": {
+    "Rank": 60,
+    "SummonerName": "Humble Diligent",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 54
+      },
+      "1": {
+        "champion": "Tahm Kench",
+        "GamesPlayed": 46
+      },
+      "2": {
+        "champion": "Rakan",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yuumi",
+        "GamesPlayed": 10
+      },
+      "1": {
+        "champion": "Rakan",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Nautilus",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "First Kyu": {
+    "Rank": 61,
+    "SummonerName": "First Kyu",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 85
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 74
+      },
+      "2": {
+        "champion": "Jayce",
+        "GamesPlayed": 69
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Fizz",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Kurose": {
+    "Rank": 62,
+    "SummonerName": "Kurose",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Fiora",
+        "GamesPlayed": 408
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 25
+      },
+      "2": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 14
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Fiora",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Nautilus",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Niles": {
+    "Rank": 63,
+    "SummonerName": "Niles",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jayce",
+        "GamesPlayed": 208
+      },
+      "1": {
+        "champion": "Kled",
+        "GamesPlayed": 108
+      },
+      "2": {
+        "champion": "Gangplank",
+        "GamesPlayed": 86
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kled",
+        "GamesPlayed": 15
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 14
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 13
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Bjergsen": {
+    "Rank": 64,
+    "SummonerName": "TSM Bjergsen",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 72
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 39
+      },
+      "2": {
+        "champion": "Rumble",
+        "GamesPlayed": 38
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ˇˆˉˉˆˇ": {
+    "Rank": 65,
+    "SummonerName": "ˇˆˉˉˆˇ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 107
+      },
+      "1": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 87
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 68
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 19
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 7
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Omot": {
+    "Rank": 66,
+    "SummonerName": "Omot",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 163
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 131
+      },
+      "2": {
+        "champion": "Neeko",
+        "GamesPlayed": 97
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 18
+      },
+      "1": {
+        "champion": "Neeko",
+        "GamesPlayed": 15
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 15
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "clutch lira": {
+    "Rank": 67,
+    "SummonerName": "clutch lira",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 32
+      },
+      "1": {
+        "champion": "Elise",
+        "GamesPlayed": 26
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 22
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "100T Bang": {
+    "Rank": 68,
+    "SummonerName": "100T Bang",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 81
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 51
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 48
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Dhokla": {
+    "Rank": 69,
+    "SummonerName": "Dhokla",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jayce",
+        "GamesPlayed": 146
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 110
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 108
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Neeko",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Kennen",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Kimi Life": {
+    "Rank": 70,
+    "SummonerName": "Kimi Life",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 71
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 70
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 62
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "NaSecretSupport": {
+    "Rank": 71,
+    "SummonerName": "NaSecretSupport",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lulu",
+        "GamesPlayed": 94
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 43
+      },
+      "2": {
+        "champion": "Galio",
+        "GamesPlayed": 23
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Yuumi",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Ssumdayday": {
+    "Rank": 72,
+    "SummonerName": "Ssumdayday",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 39
+      },
+      "1": {
+        "champion": "Camille",
+        "GamesPlayed": 29
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 25
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kennen",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Shupian": {
+    "Rank": 73,
+    "SummonerName": "Shupian",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Talon",
+        "GamesPlayed": 141
+      },
+      "1": {
+        "champion": "Ekko",
+        "GamesPlayed": 62
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 32
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Talon",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Veigar",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Ekko",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ALTEC9": {
+    "Rank": 74,
+    "SummonerName": "ALTEC9",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Vayne",
+        "GamesPlayed": 82
+      },
+      "1": {
+        "champion": "Xayah",
+        "GamesPlayed": 63
+      },
+      "2": {
+        "champion": "Tristana",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {},
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Eric Zhao": {
+    "Rank": 75,
+    "SummonerName": "Eric Zhao",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rengar",
+        "GamesPlayed": 388
+      },
+      "1": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 51
+      },
+      "2": {
+        "champion": "Dr. Mundo",
+        "GamesPlayed": 22
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rengar",
+        "GamesPlayed": 15
+      },
+      "1": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 7
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Stixxay": {
+    "Rank": 76,
+    "SummonerName": "Stixxay",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 63
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 57
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 53
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Not2Clean": {
+    "Rank": 77,
+    "SummonerName": "Not2Clean",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Vladimir",
+        "GamesPlayed": 369
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 272
+      },
+      "2": {
+        "champion": "Corki",
+        "GamesPlayed": 173
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 28
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 17
+      },
+      "2": {
+        "champion": "Corki",
+        "GamesPlayed": 12
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "FLY JayJ": {
+    "Rank": 78,
+    "SummonerName": "FLY JayJ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 110
+      },
+      "1": {
+        "champion": "Alistar",
+        "GamesPlayed": 75
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 64
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "DJ FraggyFrag": {
+    "Rank": 79,
+    "SummonerName": "DJ FraggyFrag",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 120
+      },
+      "1": {
+        "champion": "Karthus",
+        "GamesPlayed": 78
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 60
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Aatrox",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Taliyah",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Allorim": {
+    "Rank": 80,
+    "SummonerName": "Allorim",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 61
+      },
+      "1": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 50
+      },
+      "2": {
+        "champion": "Urgot",
+        "GamesPlayed": 34
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Poppy",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Varus",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Urgot",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Me shield": {
+    "Rank": 81,
+    "SummonerName": "Me shield",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 175
+      },
+      "1": {
+        "champion": "Tristana",
+        "GamesPlayed": 45
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 42
+      },
+      "1": {
+        "champion": "Tristana",
+        "GamesPlayed": 14
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Jurassiq": {
+    "Rank": 82,
+    "SummonerName": "Jurassiq",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 130
+      },
+      "1": {
+        "champion": "Varus",
+        "GamesPlayed": 55
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 52
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sivir",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Pantheon",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 6
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "RobbyBob": {
+    "Rank": 83,
+    "SummonerName": "RobbyBob",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 65
+      },
+      "1": {
+        "champion": "Ryze",
+        "GamesPlayed": 22
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 21
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Yasuo",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "MistyStumpey": {
+    "Rank": 84,
+    "SummonerName": "MistyStumpey",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jayce",
+        "GamesPlayed": 51
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 38
+      },
+      "2": {
+        "champion": "Ryze",
+        "GamesPlayed": 34
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Azir",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Ryze",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "oGoDs": {
+    "Rank": 85,
+    "SummonerName": "oGoDs",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 22
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 22
+      },
+      "2": {
+        "champion": "LeBlanc",
+        "GamesPlayed": 16
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Corki",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Zoe",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Nisquick": {
+    "Rank": 86,
+    "SummonerName": "Nisquick",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 80
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 72
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 49
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Talon",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Draven696969": {
+    "Rank": 87,
+    "SummonerName": "Draven696969",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rengar",
+        "GamesPlayed": 275
+      },
+      "1": {
+        "champion": "Amumu",
+        "GamesPlayed": 26
+      },
+      "2": {
+        "champion": "Nunu & Willump",
+        "GamesPlayed": 24
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rengar",
+        "GamesPlayed": 11
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Evelynn",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Jakoshade": {
+    "Rank": 88,
+    "SummonerName": "Jakoshade",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Zed",
+        "GamesPlayed": 622
+      },
+      "1": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 122
+      },
+      "2": {
+        "champion": "Draven",
+        "GamesPlayed": 46
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Zed",
+        "GamesPlayed": 26
+      },
+      "1": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Fizz",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Meech": {
+    "Rank": 89,
+    "SummonerName": "Meech",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Xayah",
+        "GamesPlayed": 352
+      },
+      "1": {
+        "champion": "Twitch",
+        "GamesPlayed": 140
+      },
+      "2": {
+        "champion": "Rakan",
+        "GamesPlayed": 76
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Xayah",
+        "GamesPlayed": 9
+      },
+      "2": {
+        "champion": "Twitch",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Tokino": {
+    "Rank": 90,
+    "SummonerName": "Tokino",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 26
+      },
+      "1": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 16
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 15
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Talon",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  " Sudzzi": {
+    "Rank": 91,
+    "SummonerName": " Sudzzi",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 86
+      },
+      "1": {
+        "champion": "Neeko",
+        "GamesPlayed": 81
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 80
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 10
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 9
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Cody Pog": {
+    "Rank": 92,
+    "SummonerName": "Cody Pog",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 118
+      },
+      "1": {
+        "champion": "Vayne",
+        "GamesPlayed": 79
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 54
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Tristana",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "urelectric": {
+    "Rank": 93,
+    "SummonerName": "urelectric",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Pantheon",
+        "GamesPlayed": 304
+      },
+      "1": {
+        "champion": "Annie",
+        "GamesPlayed": 10
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 8
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Pantheon",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Kennen",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Teemo",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "li yugang": {
+    "Rank": 94,
+    "SummonerName": "li yugang",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 86
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 59
+      },
+      "2": {
+        "champion": "Hecarim",
+        "GamesPlayed": 33
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 1
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "faker god top": {
+    "Rank": 95,
+    "SummonerName": "faker god top",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 26
+      },
+      "1": {
+        "champion": "Kennen",
+        "GamesPlayed": 26
+      },
+      "2": {
+        "champion": "Jayce",
+        "GamesPlayed": 26
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Jayce",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "NucIear": {
+    "Rank": 96,
+    "SummonerName": "NucIear",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 223
+      },
+      "1": {
+        "champion": "Vayne",
+        "GamesPlayed": 201
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 77
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Ashe",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Cho'Gath",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Revenge": {
+    "Rank": 97,
+    "SummonerName": "Revenge",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 282
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 179
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 89
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 14
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Jayce",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "etfiwS": {
+    "Rank": 98,
+    "SummonerName": "etfiwS",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 142
+      },
+      "1": {
+        "champion": "Morgana",
+        "GamesPlayed": 19
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 19
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 5
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ˉNemesis": {
+    "Rank": 99,
+    "SummonerName": "ˉNemesis",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 523
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 236
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 50
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 25
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 15
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 10
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "PANTS GAREN ONLY": {
+    "Rank": 100,
+    "SummonerName": "PANTS GAREN ONLY",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Udyr",
+        "GamesPlayed": 120
+      },
+      "1": {
+        "champion": "Nunu & Willump",
+        "GamesPlayed": 44
+      },
+      "2": {
+        "champion": "Taric",
+        "GamesPlayed": 38
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yuumi",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Elise",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Sejuani",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "GORlCA": {
+    "Rank": 101,
+    "SummonerName": "GORlCA",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Neeko",
+        "GamesPlayed": 50
+      },
+      "1": {
+        "champion": "Draven",
+        "GamesPlayed": 39
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 31
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kalista",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Swain",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "CG Joey": {
+    "Rank": 102,
+    "SummonerName": "CG Joey",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Yuumi",
+        "GamesPlayed": 81
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 46
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 30
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Pyke",
+        "GamesPlayed": 13
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Yuumi",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "BOT KING": {
+    "Rank": 103,
+    "SummonerName": "BOT KING",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 30
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 25
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 23
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Miss Fortune",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Swain",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Descraton": {
+    "Rank": 104,
+    "SummonerName": "Descraton",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ryze",
+        "GamesPlayed": 128
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 98
+      },
+      "2": {
+        "champion": "Lissandra",
+        "GamesPlayed": 60
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Vladimir",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Kazahana": {
+    "Rank": 105,
+    "SummonerName": "Kazahana",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Karthus",
+        "GamesPlayed": 85
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 66
+      },
+      "2": {
+        "champion": "Xin Zhao",
+        "GamesPlayed": 53
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Karthus",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Baby  Janna": {
+    "Rank": 106,
+    "SummonerName": "Baby  Janna",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Master Yi",
+        "GamesPlayed": 221
+      },
+      "1": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 13
+      },
+      "2": {
+        "champion": "Xin Zhao",
+        "GamesPlayed": 10
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Master Yi",
+        "GamesPlayed": 5
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Yamaˉ": {
+    "Rank": 107,
+    "SummonerName": "Yamaˉ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 243
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 134
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 85
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Morgana",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ToLoToLo": {
+    "Rank": 108,
+    "SummonerName": "ToLoToLo",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Soraka",
+        "GamesPlayed": 314
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 84
+      },
+      "2": {
+        "champion": "Yuumi",
+        "GamesPlayed": 64
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yuumi",
+        "GamesPlayed": 18
+      },
+      "1": {
+        "champion": "Soraka",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 7
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Hakuho": {
+    "Rank": 109,
+    "SummonerName": "Hakuho",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Veigar",
+        "GamesPlayed": 28
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 27
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 26
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Malevolent mid": {
+    "Rank": 110,
+    "SummonerName": "Malevolent mid",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Corki",
+        "GamesPlayed": 50
+      },
+      "1": {
+        "champion": "Orianna",
+        "GamesPlayed": 36
+      },
+      "2": {
+        "champion": "LeBlanc",
+        "GamesPlayed": 31
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Diana",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Qiyana",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Azir",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "SandPaperX": {
+    "Rank": 111,
+    "SummonerName": "SandPaperX",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 104
+      },
+      "1": {
+        "champion": "Galio",
+        "GamesPlayed": 91
+      },
+      "2": {
+        "champion": "Rakan",
+        "GamesPlayed": 60
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Yuumi",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "MaeIstrom": {
+    "Rank": 112,
+    "SummonerName": "MaeIstrom",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rammus",
+        "GamesPlayed": 59
+      },
+      "1": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 45
+      },
+      "2": {
+        "champion": "Graves",
+        "GamesPlayed": 41
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Renekton",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Urgot",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "OpTic Arrow": {
+    "Rank": 113,
+    "SummonerName": "OpTic Arrow",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 102
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 86
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 56
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Varus",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Swain",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Tristana",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Erry": {
+    "Rank": 114,
+    "SummonerName": "Erry",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 147
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 64
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 49
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Jinx",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "KT impression": {
+    "Rank": 115,
+    "SummonerName": "KT impression",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ryze",
+        "GamesPlayed": 102
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 79
+      },
+      "2": {
+        "champion": "Corki",
+        "GamesPlayed": 56
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 11
+      },
+      "1": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 9
+      },
+      "2": {
+        "champion": "Azir",
+        "GamesPlayed": 7
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "StrongHuni": {
+    "Rank": 116,
+    "SummonerName": "StrongHuni",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 58
+      },
+      "1": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 50
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 22
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "oathbreaker": {
+    "Rank": 117,
+    "SummonerName": "oathbreaker",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kennen",
+        "GamesPlayed": 96
+      },
+      "1": {
+        "champion": "Ryze",
+        "GamesPlayed": 39
+      },
+      "2": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 26
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kennen",
+        "GamesPlayed": 14
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Scarlet 123": {
+    "Rank": 118,
+    "SummonerName": "Scarlet 123",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 84
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 56
+      },
+      "2": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 54
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 10
+      },
+      "1": {
+        "champion": "Karthus",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Azir",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Doublelift": {
+    "Rank": 119,
+    "SummonerName": "Doublelift",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sivir",
+        "GamesPlayed": 47
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 41
+      },
+      "2": {
+        "champion": "Tristana",
+        "GamesPlayed": 35
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Xayah",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "four fourteen": {
+    "Rank": 120,
+    "SummonerName": "four fourteen",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 43
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 39
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 32
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Corki",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "PK1": {
+    "Rank": 121,
+    "SummonerName": "PK1",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 159
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 97
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 96
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 11
+      },
+      "1": {
+        "champion": "Neeko",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 8
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Asgeir": {
+    "Rank": 122,
+    "SummonerName": "Asgeir",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 170
+      },
+      "1": {
+        "champion": "Elise",
+        "GamesPlayed": 115
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 54
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 20
+      },
+      "1": {
+        "champion": "Elise",
+        "GamesPlayed": 12
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 10
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Pobelter": {
+    "Rank": 123,
+    "SummonerName": "Pobelter",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 70
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 59
+      },
+      "2": {
+        "champion": "Ryze",
+        "GamesPlayed": 57
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Camille",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "FoTheWin": {
+    "Rank": 124,
+    "SummonerName": "FoTheWin",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 39
+      },
+      "1": {
+        "champion": "Kindred",
+        "GamesPlayed": 31
+      },
+      "2": {
+        "champion": "Olaf",
+        "GamesPlayed": 28
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Karthus",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Olaf",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Sad Støry": {
+    "Rank": 125,
+    "SummonerName": "Sad Støry",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 58
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 57
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 45
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Kalista",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "WARMACHINE HYPER": {
+    "Rank": 126,
+    "SummonerName": "WARMACHINE HYPER",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 229
+      },
+      "1": {
+        "champion": "Graves",
+        "GamesPlayed": 81
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 62
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "D0G2": {
+    "Rank": 127,
+    "SummonerName": "D0G2",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Miss Fortune",
+        "GamesPlayed": 376
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 178
+      },
+      "2": {
+        "champion": "Draven",
+        "GamesPlayed": 61
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Miss Fortune",
+        "GamesPlayed": 19
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Kennen",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "avi lft": {
+    "Rank": 128,
+    "SummonerName": "avi lft",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 83
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 28
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 24
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 13
+      },
+      "1": {
+        "champion": "Taliyah",
+        "GamesPlayed": 9
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 6
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "MikeYeung": {
+    "Rank": 129,
+    "SummonerName": "MikeYeung",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 47
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 30
+      },
+      "2": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 30
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Scrandor2": {
+    "Rank": 130,
+    "SummonerName": "Scrandor2",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 182
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 36
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 16
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Leona",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "LittleFrosty": {
+    "Rank": 131,
+    "SummonerName": "LittleFrosty",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 125
+      },
+      "1": {
+        "champion": "Zed",
+        "GamesPlayed": 20
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 10
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Zed",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ínori": {
+    "Rank": 132,
+    "SummonerName": "ínori",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 57
+      },
+      "1": {
+        "champion": "Hecarim",
+        "GamesPlayed": 44
+      },
+      "2": {
+        "champion": "Elise",
+        "GamesPlayed": 21
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Nidalee",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "SwordbIue": {
+    "Rank": 133,
+    "SummonerName": "SwordbIue",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 55
+      },
+      "1": {
+        "champion": "Morgana",
+        "GamesPlayed": 39
+      },
+      "2": {
+        "champion": "Sona",
+        "GamesPlayed": 34
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Magı": {
+    "Rank": 134,
+    "SummonerName": "Magı",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Soraka",
+        "GamesPlayed": 138
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 61
+      },
+      "2": {
+        "champion": "Janna",
+        "GamesPlayed": 57
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Janna",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Soraka",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "vipner": {
+    "Rank": 135,
+    "SummonerName": "vipner",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Vel'Koz",
+        "GamesPlayed": 163
+      },
+      "1": {
+        "champion": "Fiddlesticks",
+        "GamesPlayed": 70
+      },
+      "2": {
+        "champion": "Nautilus",
+        "GamesPlayed": 64
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Leona",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Bard",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "DNSG": {
+    "Rank": 136,
+    "SummonerName": "DNSG",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Aatrox",
+        "GamesPlayed": 178
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 108
+      },
+      "2": {
+        "champion": "Ahri",
+        "GamesPlayed": 98
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 16
+      },
+      "1": {
+        "champion": "Zed",
+        "GamesPlayed": 12
+      },
+      "2": {
+        "champion": "Yasuo",
+        "GamesPlayed": 10
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Little Mix ": {
+    "Rank": 137,
+    "SummonerName": "Little Mix ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Janna",
+        "GamesPlayed": 215
+      },
+      "1": {
+        "champion": "Soraka",
+        "GamesPlayed": 51
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 44
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Leona",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Janna",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Zyra",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TCLB Stix Inc": {
+    "Rank": 138,
+    "SummonerName": "TCLB Stix Inc",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Evelynn",
+        "GamesPlayed": 214
+      },
+      "1": {
+        "champion": "Kindred",
+        "GamesPlayed": 55
+      },
+      "2": {
+        "champion": "Nunu & Willump",
+        "GamesPlayed": 35
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Evelynn",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Fiddlesticks",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "100 Prismal": {
+    "Rank": 139,
+    "SummonerName": "100 Prismal",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 65
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 57
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 54
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Neeko",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "L9EB Humzh": {
+    "Rank": 140,
+    "SummonerName": "L9EB Humzh",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 90
+      },
+      "1": {
+        "champion": "Xayah",
+        "GamesPlayed": 11
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 5
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Xayah",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "L9EB Rezz": {
+    "Rank": 141,
+    "SummonerName": "L9EB Rezz",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kennen",
+        "GamesPlayed": 118
+      },
+      "1": {
+        "champion": "Poppy",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kennen",
+        "GamesPlayed": 14
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "JuicyJ Cant": {
+    "Rank": 142,
+    "SummonerName": "JuicyJ Cant",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 40
+      },
+      "1": {
+        "champion": "Urgot",
+        "GamesPlayed": 26
+      },
+      "2": {
+        "champion": "Shen",
+        "GamesPlayed": 25
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Ornn",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Poppy",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TwTv KhaliDino": {
+    "Rank": 143,
+    "SummonerName": "TwTv KhaliDino",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Bard",
+        "GamesPlayed": 517
+      },
+      "1": {
+        "champion": "Zilean",
+        "GamesPlayed": 97
+      },
+      "2": {
+        "champion": "Fiddlesticks",
+        "GamesPlayed": 39
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Bard",
+        "GamesPlayed": 17
+      },
+      "1": {
+        "champion": "Zilean",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Félix Lengyel": {
+    "Rank": 144,
+    "SummonerName": "Félix Lengyel",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sivir",
+        "GamesPlayed": 76
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 66
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 55
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sivir",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "NAsFinest": {
+    "Rank": 145,
+    "SummonerName": "NAsFinest",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sona",
+        "GamesPlayed": 597
+      },
+      "1": {
+        "champion": "Janna",
+        "GamesPlayed": 251
+      },
+      "2": {
+        "champion": "Nami",
+        "GamesPlayed": 167
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Janna",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Nami",
+        "GamesPlayed": 2
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "CLG Auto": {
+    "Rank": 146,
+    "SummonerName": "CLG Auto",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 115
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 99
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 82
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Sun Prince": {
+    "Rank": 147,
+    "SummonerName": "Sun Prince",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 51
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 37
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 31
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Bard",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Nautilus",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "The Space Stone": {
+    "Rank": 148,
+    "SummonerName": "The Space Stone",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kled",
+        "GamesPlayed": 93
+      },
+      "1": {
+        "champion": "Gangplank",
+        "GamesPlayed": 51
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 8
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Gangplank",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Kled",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Sheep6": {
+    "Rank": 149,
+    "SummonerName": "Sheep6",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 153
+      },
+      "1": {
+        "champion": "Soraka",
+        "GamesPlayed": 54
+      },
+      "2": {
+        "champion": "Morgana",
+        "GamesPlayed": 48
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Bard",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "sona guy": {
+    "Rank": 150,
+    "SummonerName": "sona guy",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 27
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 26
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 23
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Kalista",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Wadid": {
+    "Rank": 151,
+    "SummonerName": "Wadid",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Pyke",
+        "GamesPlayed": 43
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 28
+      },
+      "2": {
+        "champion": "Rakan",
+        "GamesPlayed": 27
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Pyke",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Kennen",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Soulmario": {
+    "Rank": 152,
+    "SummonerName": "Soulmario",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kled",
+        "GamesPlayed": 391
+      },
+      "1": {
+        "champion": "Yorick",
+        "GamesPlayed": 17
+      },
+      "2": {
+        "champion": "Gangplank",
+        "GamesPlayed": 16
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kled",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "WeTriedToRun": {
+    "Rank": 153,
+    "SummonerName": "WeTriedToRun",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 172
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 38
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 10
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "kingamazin": {
+    "Rank": 154,
+    "SummonerName": "kingamazin",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Vayne",
+        "GamesPlayed": 80
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 57
+      },
+      "2": {
+        "champion": "Jinx",
+        "GamesPlayed": 40
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Jinx",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "OpTic Asta": {
+    "Rank": 155,
+    "SummonerName": "OpTic Asta",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 56
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 52
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 50
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Varus",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Siegfredd": {
+    "Rank": 156,
+    "SummonerName": "Siegfredd",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 360
+      },
+      "1": {
+        "champion": "Camille",
+        "GamesPlayed": 4
+      },
+      "2": {}
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 7
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Quantum Fizzics": {
+    "Rank": 157,
+    "SummonerName": "Quantum Fizzics",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Aurelion Sol",
+        "GamesPlayed": 124
+      },
+      "1": {
+        "champion": "Fizz",
+        "GamesPlayed": 105
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 94
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Qiyana",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Fizz",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "MAXl": {
+    "Rank": 158,
+    "SummonerName": "MAXl",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 74
+      },
+      "1": {
+        "champion": "Kindred",
+        "GamesPlayed": 20
+      },
+      "2": {
+        "champion": "Nidalee",
+        "GamesPlayed": 5
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 39
+      },
+      "1": {
+        "champion": "Kindred",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Nidalee",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Notzu": {
+    "Rank": 159,
+    "SummonerName": "Notzu",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Gangplank",
+        "GamesPlayed": 148
+      },
+      "1": {
+        "champion": "Kled",
+        "GamesPlayed": 96
+      },
+      "2": {
+        "champion": "Urgot",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kled",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Neeko",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Bíg T": {
+    "Rank": 160,
+    "SummonerName": "Bíg T",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 52
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 43
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "CHlME": {
+    "Rank": 161,
+    "SummonerName": "CHlME",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 62
+      },
+      "1": {
+        "champion": "Bard",
+        "GamesPlayed": 58
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 55
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nautilus",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Janna",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Jeem": {
+    "Rank": 162,
+    "SummonerName": "Jeem",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 27
+      },
+      "1": {
+        "champion": "Xayah",
+        "GamesPlayed": 24
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 22
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Yasuo",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Draven",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "5tunt": {
+    "Rank": 163,
+    "SummonerName": "5tunt",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Morgana",
+        "GamesPlayed": 43
+      },
+      "1": {
+        "champion": "Rakan",
+        "GamesPlayed": 30
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 30
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nautilus",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Volibear",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Yuumi",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "HighKeySavage": {
+    "Rank": 164,
+    "SummonerName": "HighKeySavage",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jayce",
+        "GamesPlayed": 135
+      },
+      "1": {
+        "champion": "LeBlanc",
+        "GamesPlayed": 120
+      },
+      "2": {
+        "champion": "Ryze",
+        "GamesPlayed": 105
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Kassadin",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Disconnector": {
+    "Rank": 165,
+    "SummonerName": "Disconnector",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 122
+      },
+      "1": {
+        "champion": "Vayne",
+        "GamesPlayed": 84
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 73
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "XAXAXAXAXA": {
+    "Rank": 166,
+    "SummonerName": "XAXAXAXAXA",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "LeBlanc",
+        "GamesPlayed": 76
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 60
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 46
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Azir",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Tony Top": {
+    "Rank": 167,
+    "SummonerName": "Tony Top",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jax",
+        "GamesPlayed": 129
+      },
+      "1": {
+        "champion": "Yorick",
+        "GamesPlayed": 127
+      },
+      "2": {
+        "champion": "Vladimir",
+        "GamesPlayed": 99
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Vladimir",
+        "GamesPlayed": 22
+      },
+      "1": {
+        "champion": "Kled",
+        "GamesPlayed": 20
+      },
+      "2": {
+        "champion": "Jax",
+        "GamesPlayed": 16
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "BeowuIf": {
+    "Rank": 168,
+    "SummonerName": "BeowuIf",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Pantheon",
+        "GamesPlayed": 86
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 85
+      },
+      "2": {
+        "champion": "Tahm Kench",
+        "GamesPlayed": 18
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Pantheon",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "C9 Sneaky": {
+    "Rank": 169,
+    "SummonerName": "C9 Sneaky",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 65
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 56
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 44
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "cackdios": {
+    "Rank": 170,
+    "SummonerName": "cackdios",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 29
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 25
+      },
+      "2": {
+        "champion": "Xin Zhao",
+        "GamesPlayed": 24
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Hecarim",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Xin Zhao",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "CptShrimps": {
+    "Rank": 171,
+    "SummonerName": "CptShrimps",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 150
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 146
+      },
+      "2": {
+        "champion": "Zed",
+        "GamesPlayed": 67
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Aatrox",
+        "GamesPlayed": 13
+      },
+      "1": {
+        "champion": "Rumble",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Zed",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Wholesome Whyin": {
+    "Rank": 172,
+    "SummonerName": "Wholesome Whyin",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 61
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 49
+      },
+      "2": {
+        "champion": "Zilean",
+        "GamesPlayed": 32
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Tahm Kench",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Blitzt": {
+    "Rank": 173,
+    "SummonerName": "Blitzt",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 102
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 96
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 62
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Jhin",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Repobah": {
+    "Rank": 174,
+    "SummonerName": "Repobah",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 263
+      },
+      "1": {
+        "champion": "Zed",
+        "GamesPlayed": 98
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 66
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Zed",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Kizeme": {
+    "Rank": 175,
+    "SummonerName": "Kizeme",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 90
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 54
+      },
+      "2": {
+        "champion": "Rakan",
+        "GamesPlayed": 51
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rakan",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Zilean",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "FataIis": {
+    "Rank": 176,
+    "SummonerName": "FataIis",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 106
+      },
+      "1": {
+        "champion": "Rumble",
+        "GamesPlayed": 102
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 51
+      }
+    },
+    "TopThreeWeek": {
+      "0": {},
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Shiba lnu": {
+    "Rank": 177,
+    "SummonerName": "Shiba lnu",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 126
+      },
+      "1": {
+        "champion": "Zoe",
+        "GamesPlayed": 78
+      },
+      "2": {
+        "champion": "Aurelion Sol",
+        "GamesPlayed": 43
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Corki",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Miss Fortune",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Azir",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Brown Man Darius": {
+    "Rank": 178,
+    "SummonerName": "Brown Man Darius",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Darius",
+        "GamesPlayed": 247
+      },
+      "1": {
+        "champion": "Riven",
+        "GamesPlayed": 155
+      },
+      "2": {
+        "champion": "Vladimir",
+        "GamesPlayed": 87
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Darius",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Riven",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Swordˉ": {
+    "Rank": 179,
+    "SummonerName": "Swordˉ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 46
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 38
+      },
+      "2": {
+        "champion": "Zoe",
+        "GamesPlayed": 33
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Diana",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "LeBlanc",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "BestGravesCn": {
+    "Rank": 180,
+    "SummonerName": "BestGravesCn",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jayce",
+        "GamesPlayed": 60
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 60
+      },
+      "2": {
+        "champion": "Graves",
+        "GamesPlayed": 59
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Hecarim",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Liquid Impact": {
+    "Rank": 181,
+    "SummonerName": "Liquid Impact",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 93
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 75
+      },
+      "2": {
+        "champion": "Jayce",
+        "GamesPlayed": 61
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Corki",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Gangplank",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "lron Pyrite": {
+    "Rank": 182,
+    "SummonerName": "lron Pyrite",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Vel'Koz",
+        "GamesPlayed": 116
+      },
+      "1": {
+        "champion": "Bard",
+        "GamesPlayed": 13
+      },
+      "2": {
+        "champion": "Leona",
+        "GamesPlayed": 7
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Vel'Koz",
+        "GamesPlayed": 14
+      },
+      "1": {
+        "champion": "Bard",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Braum",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "captbearr": {
+    "Rank": 183,
+    "SummonerName": "captbearr",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kled",
+        "GamesPlayed": 667
+      },
+      "1": {
+        "champion": "Darius",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kled",
+        "GamesPlayed": 30
+      },
+      "1": {
+        "champion": "Darius",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Lewd Nami": {
+    "Rank": 184,
+    "SummonerName": "Lewd Nami",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nami",
+        "GamesPlayed": 501
+      },
+      "1": {},
+      "2": {}
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nami",
+        "GamesPlayed": 3
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "c2 meteos": {
+    "Rank": 185,
+    "SummonerName": "c2 meteos",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rengar",
+        "GamesPlayed": 227
+      },
+      "1": {
+        "champion": "Hecarim",
+        "GamesPlayed": 31
+      },
+      "2": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 28
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rengar",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Tuesdayy": {
+    "Rank": 186,
+    "SummonerName": "Tuesdayy",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 190
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 91
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 88
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "GochuHunter": {
+    "Rank": 187,
+    "SummonerName": "GochuHunter",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 147
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 102
+      },
+      "2": {
+        "champion": "Miss Fortune",
+        "GamesPlayed": 96
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Miss Fortune",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Manco": {
+    "Rank": 188,
+    "SummonerName": "Manco",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Teemo",
+        "GamesPlayed": 723
+      },
+      "1": {
+        "champion": "Amumu",
+        "GamesPlayed": 35
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 5
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Teemo",
+        "GamesPlayed": 6
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TCLB 10IQ Inc": {
+    "Rank": 189,
+    "SummonerName": "TCLB 10IQ Inc",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 133
+      },
+      "1": {
+        "champion": "Ekko",
+        "GamesPlayed": 47
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 29
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Darius",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TC porsche": {
+    "Rank": 190,
+    "SummonerName": "TC porsche",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Gangplank",
+        "GamesPlayed": 323
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Renekton",
+        "GamesPlayed": 3
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Gangplank",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "KR Millim ": {
+    "Rank": 191,
+    "SummonerName": "KR Millim ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 122
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 44
+      },
+      "2": {
+        "champion": "Nidalee",
+        "GamesPlayed": 40
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Quy Dep Trai II": {
+    "Rank": 192,
+    "SummonerName": "Quy Dep Trai II",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kindred",
+        "GamesPlayed": 198
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 82
+      },
+      "2": {
+        "champion": "Gragas",
+        "GamesPlayed": 64
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 9
+      },
+      "2": {
+        "champion": "Kindred",
+        "GamesPlayed": 8
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Kuncept": {
+    "Rank": 193,
+    "SummonerName": "Kuncept",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 117
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 65
+      },
+      "2": {
+        "champion": "Ryze",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Renekton",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Kennen",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Treatz": {
+    "Rank": 194,
+    "SummonerName": "TSM Treatz",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 40
+      },
+      "1": {
+        "champion": "Braum",
+        "GamesPlayed": 39
+      },
+      "2": {
+        "champion": "Rakan",
+        "GamesPlayed": 34
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Poppy",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Alistar",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Aetherial": {
+    "Rank": 195,
+    "SummonerName": "Aetherial",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 62
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 37
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 29
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Xayah",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TyChee": {
+    "Rank": 196,
+    "SummonerName": "TyChee",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 960
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 248
+      },
+      "2": {
+        "champion": "Tristana",
+        "GamesPlayed": 217
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Draven",
+        "GamesPlayed": 41
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 11
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 6
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Special Kay": {
+    "Rank": 197,
+    "SummonerName": "Special Kay",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 246
+      },
+      "1": {
+        "champion": "Nautilus",
+        "GamesPlayed": 214
+      },
+      "2": {
+        "champion": "Lulu",
+        "GamesPlayed": 100
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nautilus",
+        "GamesPlayed": 11
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 9
+      },
+      "2": {
+        "champion": "Lulu",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Value": {
+    "Rank": 198,
+    "SummonerName": "Value",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 52
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 34
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 28
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Xayah",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Krmx": {
+    "Rank": 199,
+    "SummonerName": "Krmx",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Fizz",
+        "GamesPlayed": 235
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 11
+      },
+      "2": {
+        "champion": "Vladimir",
+        "GamesPlayed": 7
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Fizz",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Leona",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Dragonminkim": {
+    "Rank": 200,
+    "SummonerName": "Dragonminkim",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nidalee",
+        "GamesPlayed": 30
+      },
+      "1": {
+        "champion": "Taliyah",
+        "GamesPlayed": 23
+      },
+      "2": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 13
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 5
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "BukZacH": {
+    "Rank": 201,
+    "SummonerName": "BukZacH",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 124
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 95
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 85
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Xin Zhao",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Wiggily": {
+    "Rank": 202,
+    "SummonerName": "Wiggily",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 65
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 61
+      },
+      "2": {
+        "champion": "Elise",
+        "GamesPlayed": 52
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Zac",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Felfire": {
+    "Rank": 203,
+    "SummonerName": "Felfire",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Evelynn",
+        "GamesPlayed": 118
+      },
+      "1": {
+        "champion": "Elise",
+        "GamesPlayed": 100
+      },
+      "2": {
+        "champion": "Nunu & Willump",
+        "GamesPlayed": 98
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "nikaV": {
+    "Rank": 204,
+    "SummonerName": "nikaV",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 46
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 40
+      },
+      "2": {
+        "champion": "Graves",
+        "GamesPlayed": 32
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Olaf",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Taliyah",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Xeno": {
+    "Rank": 205,
+    "SummonerName": "Xeno",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Azir",
+        "GamesPlayed": 18
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 12
+      },
+      "2": {
+        "champion": "LeBlanc",
+        "GamesPlayed": 12
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Azir",
+        "GamesPlayed": 1
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "A Good Sir": {
+    "Rank": 206,
+    "SummonerName": "A Good Sir",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 47
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 39
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 25
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Gragas",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Camille",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "SirRosicky": {
+    "Rank": 207,
+    "SummonerName": "SirRosicky",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 326
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 48
+      },
+      "2": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 31
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Pantheon",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Amumu",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Tempos": {
+    "Rank": 208,
+    "SummonerName": "Tempos",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Zilean",
+        "GamesPlayed": 723
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 207
+      },
+      "2": {
+        "champion": "Lulu",
+        "GamesPlayed": 124
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Zilean",
+        "GamesPlayed": 43
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Rakan",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "dawolfsfang": {
+    "Rank": 209,
+    "SummonerName": "dawolfsfang",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 34
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 33
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 27
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Neeko",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "emoop": {
+    "Rank": 210,
+    "SummonerName": "emoop",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nautilus",
+        "GamesPlayed": 81
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 61
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 55
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 14
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 8
+      },
+      "2": {
+        "champion": "Ashe",
+        "GamesPlayed": 6
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Va1ue": {
+    "Rank": 211,
+    "SummonerName": "Va1ue",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 47
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 31
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 30
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Xayah",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Ashe",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Corki",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "hmfxxpfcwe": {
+    "Rank": 212,
+    "SummonerName": "hmfxxpfcwe",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 103
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 27
+      },
+      "2": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 19
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Malphite",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "5mi": {
+    "Rank": 213,
+    "SummonerName": "5mi",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 72
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 44
+      },
+      "2": {
+        "champion": "Kled",
+        "GamesPlayed": 30
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Kled",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Varus",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Gweiss": {
+    "Rank": 214,
+    "SummonerName": "Gweiss",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nautilus",
+        "GamesPlayed": 96
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 63
+      },
+      "2": {
+        "champion": "Yuumi",
+        "GamesPlayed": 59
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nautilus",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Laceration": {
+    "Rank": 215,
+    "SummonerName": "Laceration",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Zed",
+        "GamesPlayed": 805
+      },
+      "1": {
+        "champion": "Kayn",
+        "GamesPlayed": 67
+      },
+      "2": {
+        "champion": "Talon",
+        "GamesPlayed": 65
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Zed",
+        "GamesPlayed": 22
+      },
+      "1": {
+        "champion": "Talon",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "dont answer": {
+    "Rank": 216,
+    "SummonerName": "dont answer",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sona",
+        "GamesPlayed": 268
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 202
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 90
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "elise player": {
+    "Rank": 217,
+    "SummonerName": "elise player",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 114
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 67
+      },
+      "2": {
+        "champion": "Olaf",
+        "GamesPlayed": 61
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Xin Zhao",
+        "GamesPlayed": 16
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Scrandor": {
+    "Rank": 218,
+    "SummonerName": "Scrandor",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 396
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 153
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 151
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 11
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 9
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 8
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ChickenNugget": {
+    "Rank": 219,
+    "SummonerName": "ChickenNugget",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kassadin",
+        "GamesPlayed": 205
+      },
+      "1": {
+        "champion": "Nautilus",
+        "GamesPlayed": 13
+      },
+      "2": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 10
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kassadin",
+        "GamesPlayed": 13
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "4 H": {
+    "Rank": 220,
+    "SummonerName": "4 H",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 72
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 67
+      },
+      "2": {
+        "champion": "Nautilus",
+        "GamesPlayed": 64
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Scott Mescudi": {
+    "Rank": 221,
+    "SummonerName": "Scott Mescudi",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 106
+      },
+      "1": {
+        "champion": "Morgana",
+        "GamesPlayed": 63
+      },
+      "2": {
+        "champion": "Lulu",
+        "GamesPlayed": 58
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Morgana",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Nami",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Thresh",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Bobby v9": {
+    "Rank": 222,
+    "SummonerName": "Bobby v9",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 299
+      },
+      "1": {
+        "champion": "Morgana",
+        "GamesPlayed": 27
+      },
+      "2": {
+        "champion": "Vayne",
+        "GamesPlayed": 13
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 13
+      },
+      "1": {
+        "champion": "Ahri",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ttv avrilx": {
+    "Rank": 223,
+    "SummonerName": "ttv avrilx",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 150
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 136
+      },
+      "2": {
+        "champion": "Miss Fortune",
+        "GamesPlayed": 131
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 21
+      },
+      "1": {
+        "champion": "Karma",
+        "GamesPlayed": 17
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 12
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Boris Oppa": {
+    "Rank": 224,
+    "SummonerName": "Boris Oppa",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 20
+      },
+      "1": {
+        "champion": "Riven",
+        "GamesPlayed": 17
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 15
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Aatrox",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Renekton",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "riste": {
+    "Rank": 225,
+    "SummonerName": "riste",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Garen",
+        "GamesPlayed": 805
+      },
+      "1": {
+        "champion": "Taric",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Kassadin",
+        "GamesPlayed": 1
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Garen",
+        "GamesPlayed": 7
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Nexus BABY": {
+    "Rank": 226,
+    "SummonerName": "Nexus BABY",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 101
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 83
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 62
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Gmandlife": {
+    "Rank": 227,
+    "SummonerName": "Gmandlife",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 335
+      },
+      "1": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 70
+      },
+      "2": {
+        "champion": "Alistar",
+        "GamesPlayed": 35
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 24
+      },
+      "1": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Poppy",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TEAMLUKEE": {
+    "Rank": 228,
+    "SummonerName": "TEAMLUKEE",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 172
+      },
+      "1": {
+        "champion": "Jinx",
+        "GamesPlayed": 93
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 84
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 7
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 6
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "gdlk": {
+    "Rank": 229,
+    "SummonerName": "gdlk",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 41
+      },
+      "1": {
+        "champion": "Rumble",
+        "GamesPlayed": 35
+      },
+      "2": {
+        "champion": "Jayce",
+        "GamesPlayed": 34
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Jayce",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Gangplank",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Kled",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Kari Babi": {
+    "Rank": 230,
+    "SummonerName": "Kari Babi",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Varus",
+        "GamesPlayed": 114
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 61
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 53
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ashe",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Tristana",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "ULookSoCharming": {
+    "Rank": 231,
+    "SummonerName": "ULookSoCharming",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 82
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 74
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Camille",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Darius",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Imaqtpie": {
+    "Rank": 232,
+    "SummonerName": "Imaqtpie",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Tristana",
+        "GamesPlayed": 164
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 143
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 121
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Tristana",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Zeypheer": {
+    "Rank": 233,
+    "SummonerName": "Zeypheer",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 82
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 59
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 46
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Varus",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Ashe",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TL Jensenn": {
+    "Rank": 234,
+    "SummonerName": "TL Jensenn",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 79
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 76
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 63
+      }
+    },
+    "TopThreeWeek": {
+      "0": {},
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "youngˉ": {
+    "Rank": 235,
+    "SummonerName": "youngˉ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Syndra",
+        "GamesPlayed": 416
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 264
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 151
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 15
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 10
+      },
+      "2": {
+        "champion": "Syndra",
+        "GamesPlayed": 8
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Suntail": {
+    "Rank": 236,
+    "SummonerName": "Suntail",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Diana",
+        "GamesPlayed": 531
+      },
+      "1": {
+        "champion": "Tristana",
+        "GamesPlayed": 11
+      },
+      "2": {
+        "champion": "Kayn",
+        "GamesPlayed": 10
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Diana",
+        "GamesPlayed": 2
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Harambe": {
+    "Rank": 237,
+    "SummonerName": "Harambe",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Wukong",
+        "GamesPlayed": 685
+      },
+      "1": {
+        "champion": "Malphite",
+        "GamesPlayed": 15
+      },
+      "2": {
+        "champion": "Yorick",
+        "GamesPlayed": 10
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Wukong",
+        "GamesPlayed": 56
+      },
+      "1": {
+        "champion": "Malphite",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Darius",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "not corgi": {
+    "Rank": 238,
+    "SummonerName": "not corgi",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 77
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 76
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 62
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lucian",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Ashe",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Taeyøng": {
+    "Rank": 239,
+    "SummonerName": "Taeyøng",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 90
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 44
+      },
+      "2": {
+        "champion": "Morgana",
+        "GamesPlayed": 25
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 10
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Morgana",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Mcbaze": {
+    "Rank": 240,
+    "SummonerName": "Mcbaze",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 160
+      },
+      "1": {
+        "champion": "Illaoi",
+        "GamesPlayed": 113
+      },
+      "2": {
+        "champion": "Orianna",
+        "GamesPlayed": 90
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nidalee",
+        "GamesPlayed": 11
+      },
+      "1": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 9
+      },
+      "2": {
+        "champion": "Anivia",
+        "GamesPlayed": 9
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "JohnathanForLong": {
+    "Rank": 241,
+    "SummonerName": "JohnathanForLong",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Bard",
+        "GamesPlayed": 181
+      },
+      "1": {
+        "champion": "Vel'Koz",
+        "GamesPlayed": 104
+      },
+      "2": {
+        "champion": "Pyke",
+        "GamesPlayed": 86
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Morgana",
+        "GamesPlayed": 18
+      },
+      "1": {
+        "champion": "Vel'Koz",
+        "GamesPlayed": 10
+      },
+      "2": {
+        "champion": "Yuumi",
+        "GamesPlayed": 9
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "holy krp": {
+    "Rank": 242,
+    "SummonerName": "holy krp",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Zoe",
+        "GamesPlayed": 58
+      },
+      "1": {
+        "champion": "Taliyah",
+        "GamesPlayed": 46
+      },
+      "2": {
+        "champion": "Yasuo",
+        "GamesPlayed": 32
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Yasuo",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Sejuani",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "W0WFIXZ": {
+    "Rank": 243,
+    "SummonerName": "W0WFIXZ",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 95
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 88
+      },
+      "2": {
+        "champion": "Sylas",
+        "GamesPlayed": 83
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Zed",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Gangplank",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Jolly the Wise": {
+    "Rank": 244,
+    "SummonerName": "Jolly the Wise",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 34
+      },
+      "1": {
+        "champion": "LeBlanc",
+        "GamesPlayed": 26
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 25
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Twitch",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Singed",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "GATE OPT": {
+    "Rank": 245,
+    "SummonerName": "GATE OPT",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 52
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 46
+      },
+      "2": {
+        "champion": "Galio",
+        "GamesPlayed": 45
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Qiyana",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Taner": {
+    "Rank": 246,
+    "SummonerName": "Taner",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jayce",
+        "GamesPlayed": 103
+      },
+      "1": {
+        "champion": "Kennen",
+        "GamesPlayed": 75
+      },
+      "2": {
+        "champion": "Camille",
+        "GamesPlayed": 74
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Camille",
+        "GamesPlayed": 17
+      },
+      "1": {
+        "champion": "Gangplank",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Swain",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Sausage Girl": {
+    "Rank": 247,
+    "SummonerName": "Sausage Girl",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 76
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 62
+      },
+      "2": {
+        "champion": "Riven",
+        "GamesPlayed": 45
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Renekton",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "John Wickdamere": {
+    "Rank": 248,
+    "SummonerName": "John Wickdamere",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 203
+      },
+      "1": {
+        "champion": "Kled",
+        "GamesPlayed": 11
+      },
+      "2": {
+        "champion": "Jax",
+        "GamesPlayed": 4
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 3
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Winfield": {
+    "Rank": 249,
+    "SummonerName": "Winfield",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Lux",
+        "GamesPlayed": 157
+      },
+      "1": {
+        "champion": "Nami",
+        "GamesPlayed": 39
+      },
+      "2": {
+        "champion": "Ahri",
+        "GamesPlayed": 7
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nami",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Lulu",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "FrostForest": {
+    "Rank": 250,
+    "SummonerName": "FrostForest",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 32
+      },
+      "1": {
+        "champion": "Nunu & Willump",
+        "GamesPlayed": 27
+      },
+      "2": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 26
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kled",
+        "GamesPlayed": 1
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Ina": {
+    "Rank": 251,
+    "SummonerName": "Ina",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Soraka",
+        "GamesPlayed": 64
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 41
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 37
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Morgana",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Yuumi",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "STAB52": {
+    "Rank": 252,
+    "SummonerName": "STAB52",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 35
+      },
+      "1": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 17
+      },
+      "2": {
+        "champion": "Gragas",
+        "GamesPlayed": 14
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Varus",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Draven",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Gangplank",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "kennyHYPERBRUH": {
+    "Rank": 253,
+    "SummonerName": "kennyHYPERBRUH",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Vladimir",
+        "GamesPlayed": 63
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 36
+      },
+      "2": {
+        "champion": "Veigar",
+        "GamesPlayed": 35
+      }
+    },
+    "TopThreeWeek": {
+      "0": {},
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Swifte3": {
+    "Rank": 254,
+    "SummonerName": "Swifte3",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Thresh",
+        "GamesPlayed": 120
+      },
+      "1": {
+        "champion": "Rakan",
+        "GamesPlayed": 17
+      },
+      "2": {
+        "champion": "Morgana",
+        "GamesPlayed": 16
+      }
+    },
+    "TopThreeWeek": {
+      "0": {},
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Scyrnn": {
+    "Rank": 255,
+    "SummonerName": "Scyrnn",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ekko",
+        "GamesPlayed": 395
+      },
+      "1": {
+        "champion": "Katarina",
+        "GamesPlayed": 71
+      },
+      "2": {
+        "champion": "Azir",
+        "GamesPlayed": 33
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ekko",
+        "GamesPlayed": 14
+      },
+      "1": {
+        "champion": "Azir",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Katarina",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Str1fe": {
+    "Rank": 256,
+    "SummonerName": "Str1fe",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 42
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 29
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 27
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Ornn",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Varus",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Con Bo": {
+    "Rank": 257,
+    "SummonerName": "Con Bo",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Jax",
+        "GamesPlayed": 127
+      },
+      "1": {
+        "champion": "Kennen",
+        "GamesPlayed": 112
+      },
+      "2": {
+        "champion": "Darius",
+        "GamesPlayed": 75
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kennen",
+        "GamesPlayed": 20
+      },
+      "1": {
+        "champion": "Jax",
+        "GamesPlayed": 16
+      },
+      "2": {
+        "champion": "Darius",
+        "GamesPlayed": 9
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "GangstahSwerve": {
+    "Rank": 258,
+    "SummonerName": "GangstahSwerve",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Hecarim",
+        "GamesPlayed": 60
+      },
+      "1": {
+        "champion": "Elise",
+        "GamesPlayed": 57
+      },
+      "2": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 47
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Kindred",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "hi im oreki": {
+    "Rank": 259,
+    "SummonerName": "hi im oreki",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 108
+      },
+      "1": {
+        "champion": "Riven",
+        "GamesPlayed": 53
+      },
+      "2": {
+        "champion": "Twisted Fate",
+        "GamesPlayed": 29
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "eat tängyúan": {
+    "Rank": 260,
+    "SummonerName": "eat tängyúan",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ekko",
+        "GamesPlayed": 305
+      },
+      "1": {
+        "champion": "Kassadin",
+        "GamesPlayed": 91
+      },
+      "2": {
+        "champion": "Irelia",
+        "GamesPlayed": 52
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ekko",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "LODxBenji": {
+    "Rank": 261,
+    "SummonerName": "LODxBenji",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 85
+      },
+      "1": {
+        "champion": "Tristana",
+        "GamesPlayed": 66
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 46
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Jinx",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Rohammers": {
+    "Rank": 262,
+    "SummonerName": "Rohammers",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 176
+      },
+      "1": {
+        "champion": "Kennen",
+        "GamesPlayed": 113
+      },
+      "2": {
+        "champion": "Renekton",
+        "GamesPlayed": 111
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Shyvana",
+        "GamesPlayed": 8
+      },
+      "1": {
+        "champion": "Aatrox",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Volibear",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "shochi": {
+    "Rank": 263,
+    "SummonerName": "shochi",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 79
+      },
+      "1": {
+        "champion": "Pyke",
+        "GamesPlayed": 62
+      },
+      "2": {
+        "champion": "Zed",
+        "GamesPlayed": 51
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nami",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Ekko",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Orianna",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "VX12269613968": {
+    "Rank": 264,
+    "SummonerName": "VX12269613968",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Katarina",
+        "GamesPlayed": 242
+      },
+      "1": {
+        "champion": "Vladimir",
+        "GamesPlayed": 34
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 18
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Vladimir",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Evelynn",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "DorkLS": {
+    "Rank": 265,
+    "SummonerName": "DorkLS",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Zyra",
+        "GamesPlayed": 530
+      },
+      "1": {
+        "champion": "Ryze",
+        "GamesPlayed": 16
+      },
+      "2": {
+        "champion": "Swain",
+        "GamesPlayed": 5
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Zyra",
+        "GamesPlayed": 30
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "gaming girl": {
+    "Rank": 266,
+    "SummonerName": "gaming girl",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Katarina",
+        "GamesPlayed": 70
+      },
+      "1": {
+        "champion": "Riven",
+        "GamesPlayed": 20
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 13
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Katarina",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Riven",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Sejuani",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Dat Boiiiiiiiii": {
+    "Rank": 267,
+    "SummonerName": "Dat Boiiiiiiiii",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 406
+      },
+      "1": {
+        "champion": "Zed",
+        "GamesPlayed": 118
+      },
+      "2": {
+        "champion": "Nasus",
+        "GamesPlayed": 36
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Zed",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Ryleo": {
+    "Rank": 268,
+    "SummonerName": "Ryleo",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 85
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 57
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 52
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Corki",
+        "GamesPlayed": 7
+      },
+      "1": {
+        "champion": "Caitlyn",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Sapfiros": {
+    "Rank": 269,
+    "SummonerName": "Sapfiros",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ryze",
+        "GamesPlayed": 127
+      },
+      "1": {
+        "champion": "Poppy",
+        "GamesPlayed": 44
+      },
+      "2": {
+        "champion": "Malzahar",
+        "GamesPlayed": 43
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Mordekaiser",
+        "GamesPlayed": 10
+      },
+      "1": {
+        "champion": "Cho'Gath",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Azir",
+        "GamesPlayed": 4
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "jeffrey0529": {
+    "Rank": 270,
+    "SummonerName": "jeffrey0529",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 33
+      },
+      "1": {
+        "champion": "Urgot",
+        "GamesPlayed": 27
+      },
+      "2": {
+        "champion": "Kindred",
+        "GamesPlayed": 21
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sejuani",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Graves",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Kindred",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Blazed Nova": {
+    "Rank": 271,
+    "SummonerName": "Blazed Nova",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nami",
+        "GamesPlayed": 61
+      },
+      "1": {
+        "champion": "Soraka",
+        "GamesPlayed": 57
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 43
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yuumi",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Karma",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Rán": {
+    "Rank": 272,
+    "SummonerName": "Rán",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 128
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 103
+      },
+      "2": {
+        "champion": "Vayne",
+        "GamesPlayed": 85
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karma",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Neeko",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Rikuu": {
+    "Rank": 273,
+    "SummonerName": "Rikuu",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 184
+      },
+      "1": {
+        "champion": "Fiora",
+        "GamesPlayed": 31
+      },
+      "2": {
+        "champion": "Poppy",
+        "GamesPlayed": 8
+      }
+    },
+    "TopThreeWeek": {
+      "0": {},
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Taco": {
+    "Rank": 274,
+    "SummonerName": "Taco",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Katarina",
+        "GamesPlayed": 136
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 21
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 20
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Katarina",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Riven",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Dmytro": {
+    "Rank": 275,
+    "SummonerName": "Dmytro",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Nidalee",
+        "GamesPlayed": 164
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 98
+      },
+      "2": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 42
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Nidalee",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Gragas",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Alex Blais": {
+    "Rank": 276,
+    "SummonerName": "Alex Blais",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Cho'Gath",
+        "GamesPlayed": 290
+      },
+      "1": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 30
+      },
+      "2": {
+        "champion": "Hecarim",
+        "GamesPlayed": 23
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Cho'Gath",
+        "GamesPlayed": 28
+      },
+      "1": {
+        "champion": "Nautilus",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Jarvan IV",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "MetaSolaray": {
+    "Rank": 277,
+    "SummonerName": "MetaSolaray",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Udyr",
+        "GamesPlayed": 590
+      },
+      "1": {
+        "champion": "Rammus",
+        "GamesPlayed": 20
+      },
+      "2": {
+        "champion": "Sejuani",
+        "GamesPlayed": 17
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Udyr",
+        "GamesPlayed": 16
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 4
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Ornn Support": {
+    "Rank": 278,
+    "SummonerName": "Ornn Support",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ornn",
+        "GamesPlayed": 1065
+      },
+      "1": {
+        "champion": "Thresh",
+        "GamesPlayed": 72
+      },
+      "2": {
+        "champion": "Nasus",
+        "GamesPlayed": 65
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ornn",
+        "GamesPlayed": 46
+      },
+      "1": {
+        "champion": "Lulu",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Leona",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Jabbadahutsnuts": {
+    "Rank": 279,
+    "SummonerName": "Jabbadahutsnuts",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Bard",
+        "GamesPlayed": 463
+      },
+      "1": {
+        "champion": "Blitzcrank",
+        "GamesPlayed": 25
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 13
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Bard",
+        "GamesPlayed": 27
+      },
+      "1": {
+        "champion": "Neeko",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Avı": {
+    "Rank": 280,
+    "SummonerName": "Avı",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 188
+      },
+      "1": {
+        "champion": "Camille",
+        "GamesPlayed": 38
+      },
+      "2": {
+        "champion": "Kennen",
+        "GamesPlayed": 4
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Riven",
+        "GamesPlayed": 16
+      },
+      "1": {
+        "champion": "Camille",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Kennen",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "dltpgml": {
+    "Rank": 281,
+    "SummonerName": "dltpgml",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rumble",
+        "GamesPlayed": 89
+      },
+      "1": {
+        "champion": "Jayce",
+        "GamesPlayed": 80
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 68
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kennen",
+        "GamesPlayed": 5
+      },
+      "1": {
+        "champion": "Renekton",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Aatrox",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Sejuanis Flail": {
+    "Rank": 282,
+    "SummonerName": "Sejuanis Flail",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Leona",
+        "GamesPlayed": 24
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 24
+      },
+      "2": {
+        "champion": "Rengar",
+        "GamesPlayed": 19
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Gragas",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Sejuani",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "H4RD": {
+    "Rank": 283,
+    "SummonerName": "H4RD",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 83
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 45
+      },
+      "2": {
+        "champion": "Taliyah",
+        "GamesPlayed": 35
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Elise",
+        "GamesPlayed": 4
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Taliyah",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Cris": {
+    "Rank": 284,
+    "SummonerName": "Cris",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 122
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 72
+      },
+      "2": {
+        "champion": "Neeko",
+        "GamesPlayed": 43
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Neeko",
+        "GamesPlayed": 20
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 15
+      },
+      "2": {
+        "champion": "Akali",
+        "GamesPlayed": 8
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Pug Corgi Shiba": {
+    "Rank": 285,
+    "SummonerName": "Pug Corgi Shiba",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 44
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 43
+      },
+      "2": {
+        "champion": "Miss Fortune",
+        "GamesPlayed": 34
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Cassiopeia",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Taliyah",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Sepeku AW": {
+    "Rank": 286,
+    "SummonerName": "Sepeku AW",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Syndra",
+        "GamesPlayed": 745
+      },
+      "1": {
+        "champion": "Zoe",
+        "GamesPlayed": 38
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 26
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Syndra",
+        "GamesPlayed": 29
+      },
+      "1": {
+        "champion": "Teemo",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Rammus",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Tenacity": {
+    "Rank": 287,
+    "SummonerName": "Tenacity",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Irelia",
+        "GamesPlayed": 94
+      },
+      "1": {
+        "champion": "Kennen",
+        "GamesPlayed": 55
+      },
+      "2": {
+        "champion": "Jax",
+        "GamesPlayed": 33
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Akali",
+        "GamesPlayed": 9
+      },
+      "1": {
+        "champion": "Kennen",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Renekton",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Kshuna": {
+    "Rank": 288,
+    "SummonerName": "Kshuna",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 60
+      },
+      "1": {
+        "champion": "Lucian",
+        "GamesPlayed": 54
+      },
+      "2": {
+        "champion": "Xayah",
+        "GamesPlayed": 37
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ashe",
+        "GamesPlayed": 6
+      },
+      "1": {
+        "champion": "Jhin",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Kzykendy": {
+    "Rank": 289,
+    "SummonerName": "Kzykendy",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Azir",
+        "GamesPlayed": 681
+      },
+      "1": {
+        "champion": "Sejuani",
+        "GamesPlayed": 62
+      },
+      "2": {
+        "champion": "Ahri",
+        "GamesPlayed": 40
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Azir",
+        "GamesPlayed": 31
+      },
+      "1": {
+        "champion": "Ahri",
+        "GamesPlayed": 4
+      },
+      "2": {
+        "champion": "Sejuani",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "TSM Johnson": {
+    "Rank": 290,
+    "SummonerName": "TSM Johnson",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Tristana",
+        "GamesPlayed": 68
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 59
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 56
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Ezreal",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Swain",
+        "GamesPlayed": 1
+      },
+      "2": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 1
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "FujiKayle": {
+    "Rank": 291,
+    "SummonerName": "FujiKayle",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Syndra",
+        "GamesPlayed": 394
+      },
+      "1": {
+        "champion": "Teemo",
+        "GamesPlayed": 17
+      },
+      "2": {
+        "champion": "Xerath",
+        "GamesPlayed": 12
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Syndra",
+        "GamesPlayed": 46
+      },
+      "1": {
+        "champion": "Xerath",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Twitch",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Solarbacca": {
+    "Rank": 292,
+    "SummonerName": "Solarbacca",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Gangplank",
+        "GamesPlayed": 928
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 99
+      },
+      "2": {
+        "champion": "Yasuo",
+        "GamesPlayed": 33
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Gangplank",
+        "GamesPlayed": 28
+      },
+      "1": {
+        "champion": "Irelia",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Yasuo",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Sprusse": {
+    "Rank": 293,
+    "SummonerName": "Sprusse",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 129
+      },
+      "1": {
+        "champion": "Lulu",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Veigar",
+        "GamesPlayed": 4
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 2
+      },
+      "1": {
+        "champion": "Lulu",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "JustinOtter": {
+    "Rank": 294,
+    "SummonerName": "JustinOtter",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Twitch",
+        "GamesPlayed": 90
+      },
+      "1": {
+        "champion": "Sivir",
+        "GamesPlayed": 24
+      },
+      "2": {
+        "champion": "Lucian",
+        "GamesPlayed": 17
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Twitch",
+        "GamesPlayed": 15
+      },
+      "1": {
+        "champion": "Lee Sin",
+        "GamesPlayed": 2
+      },
+      "2": {
+        "champion": "Gnar",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Gamer Girl": {
+    "Rank": 295,
+    "SummonerName": "Gamer Girl",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Katarina",
+        "GamesPlayed": 233
+      },
+      "1": {
+        "champion": "Sona",
+        "GamesPlayed": 44
+      },
+      "2": {
+        "champion": "Ezreal",
+        "GamesPlayed": 32
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Sejuani",
+        "GamesPlayed": 1
+      },
+      "1": {
+        "champion": "Katarina",
+        "GamesPlayed": 1
+      },
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Volvap": {
+    "Rank": 296,
+    "SummonerName": "Volvap",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Zyra",
+        "GamesPlayed": 67
+      },
+      "1": {
+        "champion": "Zoe",
+        "GamesPlayed": 45
+      },
+      "2": {
+        "champion": "Lux",
+        "GamesPlayed": 37
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Zyra",
+        "GamesPlayed": 15
+      },
+      "1": {
+        "champion": "Lux",
+        "GamesPlayed": 7
+      },
+      "2": {
+        "champion": "Morgana",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "BRAND9N TRYN GOD": {
+    "Rank": 297,
+    "SummonerName": "BRAND9N TRYN GOD",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 352
+      },
+      "1": {
+        "champion": "Darius",
+        "GamesPlayed": 13
+      },
+      "2": {
+        "champion": "Hecarim",
+        "GamesPlayed": 4
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Tryndamere",
+        "GamesPlayed": 6
+      },
+      "1": {},
+      "2": {}
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Wechat564883985": {
+    "Rank": 298,
+    "SummonerName": "Wechat564883985",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 211
+      },
+      "1": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 32
+      },
+      "2": {
+        "champion": "Kha'Zix",
+        "GamesPlayed": 25
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Taliyah",
+        "GamesPlayed": 22
+      },
+      "1": {
+        "champion": "Sylas",
+        "GamesPlayed": 5
+      },
+      "2": {
+        "champion": "Rek'Sai",
+        "GamesPlayed": 3
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "Htzr": {
+    "Rank": 299,
+    "SummonerName": "Htzr",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Sylas",
+        "GamesPlayed": 46
+      },
+      "1": {
+        "champion": "Akali",
+        "GamesPlayed": 34
+      },
+      "2": {
+        "champion": "Jayce",
+        "GamesPlayed": 31
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Karthus",
+        "GamesPlayed": 3
+      },
+      "1": {
+        "champion": "Swain",
+        "GamesPlayed": 3
+      },
+      "2": {
+        "champion": "Azir",
+        "GamesPlayed": 2
+      }
+    },
+    "LastUpdate": 1563778800000
+  },
+  "sry can win": {
+    "Rank": 300,
+    "SummonerName": "sry can win",
+    "TopThreeTotal": {
+      "0": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 196
+      },
+      "1": {
+        "champion": "Ezreal",
+        "GamesPlayed": 74
+      },
+      "2": {
+        "champion": "Sivir",
+        "GamesPlayed": 50
+      }
+    },
+    "TopThreeWeek": {
+      "0": {
+        "champion": "Yasuo",
+        "GamesPlayed": 12
+      },
+      "1": {
+        "champion": "Kai'Sa",
+        "GamesPlayed": 6
+      },
+      "2": {
+        "champion": "Gragas",
+        "GamesPlayed": 5
+      }
+    },
+    "LastUpdate": 1563778800000
+  }
+}
