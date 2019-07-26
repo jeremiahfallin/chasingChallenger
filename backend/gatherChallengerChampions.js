@@ -3,7 +3,7 @@ const fs = require("fs");
 const fileName = "./data/challenger.json";
 const file = require(fileName);
 
-const kayn = Kayn("RGAPI-854ad062-9174-493d-860a-71d643e90c89")({
+const kayn = Kayn("riot_key_here")({
   region: REGIONS.NORTH_AMERICA,
   locale: "en_US",
   debugOptions: {
